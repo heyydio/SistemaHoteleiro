@@ -1,0 +1,14 @@
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\bin\Debug\Hotel-CLC.exe.config
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\bin\Debug\Hotel-CLC.exe
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\bin\Debug\Hotel-CLC.pdb
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel-CLC.csproj.AssemblyReference.cache
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.frLogin.resources
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.Properties.Resources.resources
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel-CLC.csproj.GenerateResource.cache
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel-CLC.csproj.CoreCompileInputs.cache
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel-CLC.exe
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel-CLC.pdb
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.frmMenuPrincipal.resources
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.Cadastros.frFuncionarios.resources
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.Cadastros.frCargos.resources
+C:\Users\Técnico\Desktop\Sistema Hoteleiro\Hotel-CLC\obj\Debug\Hotel_CLC.Cadastros.frProdutos.resources
